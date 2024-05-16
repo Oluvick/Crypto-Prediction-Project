@@ -10,7 +10,6 @@ Utilizing advanced machine learning techniques, the project seeks to provide ins
 	•	Dense Neural Networks
 	•	Long Short-Term Memory Networks (LSTM)
 	•	Convolutional Neural Networks (CNN)
-  . Recurrent Neural Network (RNN)
 
 ## Results
 
